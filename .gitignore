@@ -1,0 +1,8 @@
+# إعدادات محلية وأسرار
+.env
+config.local.php
+# مكتبات وملفات مؤقتة
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
